@@ -19,12 +19,12 @@ Files that aren't JPGs are left exactly where they are.
 1. Make sure Python 3 is installed. You don't need to install anything extra, because the script only uses built-in modules (`os` and `shutil`).
 2. Clone this repo or download the file:
    ```
-   git clone <your-repo-link-here>
+   git clone <https://github.com/AryanSharma1105/CodeAlpha_File_Organizer.git>
    ```
 3. Create a folder named `source_folder` next to the script and put some `.jpg` files in it.
 4. Run the script:
    ```
-   python file_organizer.py
+   file_organizer.py
    ```
 5. Check `destination_folder`, and your images will be there.
 
